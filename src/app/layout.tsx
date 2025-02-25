@@ -41,7 +41,7 @@ export default function RootLayout({
 
               <div className="flex items-center space-x-4">
                 <a
-                  href="https://facebook.com"
+                  href="https://www.facebook.com/asif.langrah"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-blue-500 transition-colors"
@@ -50,7 +50,7 @@ export default function RootLayout({
                   <span className="sr-only">Facebook</span>
                 </a>
                 <a
-                  href="https://wa.me/your-number"
+                  href="https://wa.me/0333-7414152"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-green-500 transition-colors"

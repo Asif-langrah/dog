@@ -4,6 +4,8 @@ import { Mail, MapPin, Phone } from "lucide-react"
 import { useState } from "react"
 import { sendEmail } from "../actions/email"
 
+
+
 export default function Contact() {
   const [status, setStatus] = useState<{
     type: "success" | "error" | null
