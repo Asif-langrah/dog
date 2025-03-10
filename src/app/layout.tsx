@@ -59,7 +59,7 @@ export default function RootLayout({
                   <span className="sr-only">WhatsApp</span>
                 </a>
                 <a
-                  href="https://github.com"
+                  href="https://github.com/Asif-langrah"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-purple-500 transition-colors"
